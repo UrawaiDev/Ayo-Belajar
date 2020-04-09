@@ -1,0 +1,13 @@
+# This is a generated file; do not edit or check into version control.
+audioplayers=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.12.1/
+cloud_firestore=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.9+6/
+firebase_auth=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.1/
+firebase_core=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+9/
+firebase_storage=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.1/
+flutter_image_compress=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/
+flutter_plugin_android_lifecycle=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.5/
+image_cropper=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.1/
+image_picker=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.3+1/
+path_provider=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.2/
+system_shortcuts=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/system_shortcuts-0.0.7/
+volume=/Users/chandrakhenshi/Library/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/volume-0.1.0/

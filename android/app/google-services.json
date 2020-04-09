@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155190239903",
+    "firebase_url": "https://aplikasi-ayo-belajar.firebaseio.com",
+    "project_id": "aplikasi-ayo-belajar",
+    "storage_bucket": "aplikasi-ayo-belajar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155190239903:android:a9a1f092b84ecbe7f5b8aa",
+        "android_client_info": {
+          "package_name": "com.little_giant.math_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155190239903-880i7vhtsbpbc831fqb5brehnj2q5hd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSajwqKBpHq1y1ePFS7Uj-gcomN7uzUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155190239903-880i7vhtsbpbc831fqb5brehnj2q5hd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
