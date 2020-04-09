@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ![Halaman Login](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/login.jpg?raw=true)
+![Halaman Utama](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/halaman%20utama.jpg?raw=true)
+![Halaman Soal](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/harley.jpg?raw=true)
+![Halaman Pengaturan](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/pengaturan.jpg?raw=true)
 
 
 ## Getting Started
