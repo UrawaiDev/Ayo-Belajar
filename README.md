@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Halaman Utama](https://raw.githubusercontent.com/UrawaiDev/Ayo-Belajar/master/readme_images/halaman%20utama.jpg)
+![Halaman Login](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/login.jpg?raw=true)
 
 
 ## Getting Started
