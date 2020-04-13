@@ -1,6 +1,6 @@
 # Ayo! Belajar
 
-![Halaman Utama](https://raw.githubusercontent.com/UrawaiDev/Ayo-Belajar/master/readme_images/halaman%20utama.jpg)
+![Halaman Utama](https://raw.githubusercontent.com/UrawaiDev/Ayo-Belajar/master/images%20for%20readme/halaman%20utama.jpg)
 ![Tampilan Soal](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/harley.jpg?raw=true)
 
 Download via Google Play [Download Gratis](https://play.google.com/store/apps/details?id=com.little_giant.math_quiz)
