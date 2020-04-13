@@ -1,22 +1,27 @@
 # Ayo! Belajar
 
-A new Flutter project.
+![Halaman Utama](https://raw.githubusercontent.com/UrawaiDev/Ayo-Belajar/master/readme_images/halaman%20utama.jpg)
+![Tampilan Soal](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/harley.jpg?raw=true)
 
-![Halaman Login](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/login.jpg?raw=true)
-![Halaman Utama](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/halaman%20utama.jpg?raw=true)
-![Halaman Soal](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/harley.jpg?raw=true)
-![Halaman Pengaturan](https://github.com/UrawaiDev/Ayo-Belajar/blob/master/images%20for%20readme/pengaturan.jpg?raw=true)
+Download via Google Play [Download Gratis](https://play.google.com/store/apps/details?id=com.little_giant.math_quiz)
+
+## Catatan
+Sebelum Cloning github project ini pastikan sudah memiliki Project di Firebase dan copy file google-services.json kalian ke project folder andorid/app
+
+## Fitur - fitur pada Aplikasi Ayo! Belajar :
+- Bebas Iklan
+- Tampilan Interaktif
+- Tidak ada batasan jumlah soal
+- Level soal dibuat bertingkat
+- Pengaturan jumlah soal dan waktu pengerjaan soal
+- Soal Offline bisa diselesaikan tanpa koneksi internet
+- Autologin saat sudah terdaftar
+- Masing-masing akun berbeda soal sehingga setiap anak dapat dibedakan tingkat soalnya
+- Recovery password.
+- GRATIS
+
+Semoga Aplikasi sederhana Ayo! Belajar bisa turut serta membantu bapak/ibu dalam menumbuhkan minat belajar anak-anak anda.
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Terima Kasih.
+Urawai.dev  
